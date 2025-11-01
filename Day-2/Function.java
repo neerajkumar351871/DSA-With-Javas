@@ -1,11 +1,11 @@
-public  class  Function
-{
-    public static void  printhello()
-    {
+
+public class Function {
+
+    public static void printhello() {
         System.out.println("Hello");
     }
- public static  void main(String args[])
- {
-    printhello();
- }
+
+    public static void main(String args[]) {
+        printhello();
+    }
 }
