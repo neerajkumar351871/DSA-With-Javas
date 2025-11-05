@@ -1,4 +1,3 @@
-
 public class halfpyramid {
     public static void halfpyramid() {
         int n = 4;
